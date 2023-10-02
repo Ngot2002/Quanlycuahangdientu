@@ -134,6 +134,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Dont have account?Register now"
-        android:textAlignment="center"/>
-
+        android:textAlignment="center">
+    </TextView>
 </LinearLayout>
